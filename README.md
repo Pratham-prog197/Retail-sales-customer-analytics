@@ -1,12 +1,13 @@
-# Retail Sales, Product Performance & Customer Analytics
-## End-to-End Data Analytics Project | SQL • Python • Power BI
+# 🛒 Retail Sales, Product Performance & Customer Analytics
+
+## 🚀 End-to-End Data Analytics Project | SQL • Python • Power BI
 retail analytics project focused on understanding sales performance, product profitability, inventory efficiency, and customer purchasing behaviour using **MySQL, Python, and Power BI**.
 
 The project transforms raw retail data into structured analytical datasets, extracts actionable business insights, and presents the findings through interactive dashboards.
 
 ---
 
-## 1. Project Overview
+## 📈1. Project Overview
 
 Retail businesses generate large amounts of transactional, customer, and product data. However, raw data alone does not provide the insights needed to make effective business decisions.
 
@@ -23,7 +24,7 @@ The project covers the complete data analytics lifecycle, including data explora
 
 The ultimate goal is to help retail businesses make data-driven decisions, improve inventory efficiency, identify revenue opportunities and strengthen customer retention
 
-## 2. Why I Chose This Project
+## ❔2. Why I Chose This Project
 
 I selected retail analytics because retail businesses generate large volumes of transactional, customer and inventory data, but the real challenge lies in converting that information into meaningful business decisions.
 
@@ -40,7 +41,7 @@ Retail analytics provided an opportunity to investigate important business chall
 
 I also chose this project to demonstrate my ability to work across the complete analytics lifecycle using SQL for data management and analysis, Python for statistical exploration and Power BI for interactive business reporting.
 
-## 3. Business Problem
+## 🤔3. Business Problem
 
 The retail business operates with three major sources of information:
 
@@ -54,7 +55,7 @@ Without structured analysis, management may struggle to identify high-performing
 
 **The objective is to convert disconnected retail datasets into a reliable analytical foundation that supports better sales planning, inventory management, and customer engagement decisions.**
 
-## 4. Project Objectives
+## 🎯4. Project Objectives
 
 The project was designed around the following objectives:
 
@@ -67,7 +68,7 @@ The project was designed around the following objectives:
 7. **Perform Statistical Analysis:** Investigate relationships and differences in customer and product performance using statistical techniques.
 8. **Build Interactive Dashboards:** Develop Power BI dashboards that communicate important KPIs, trends and business recommendations.
 
-## 5. Dataset Description
+## 📦5. Dataset Description
 
 The project uses three interconnected datasets.
 
@@ -103,7 +104,7 @@ The project uses three interconnected datasets.
 
 The datasets are connected through `CustomerID` and `ProductID`, allowing customer-level and product-level analysis.
 
-## 6. Technology Stack
+## 🛠️6. Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -117,7 +118,7 @@ The datasets are connected through `CustomerID` and `ProductID`, allowing custom
 | Excel / CSV | Data inspection and analytical exports |
 | Jupyter Notebook | Python development and documentation |
 
-## 7. Data Cleaning & Preparation
+## 🧹 7. Data Cleaning & Preparation
 
 Data quality was treated as an important part of the analytical workflow. Before generating business insights, the raw datasets were inspected for inconsistencies and validation issues.
 
@@ -330,7 +331,7 @@ Important window functions included:
 
 **Business value:** Helped identify purchasing patterns and opportunities to improve repeat purchases and customer engagement.
 
-## 8. Python Analysis
+## 🐍8. Python Analysis
 
 Python was used to complement SQL with exploratory analysis, statistical testing, clustering evaluation and analytical visualisations.
 
@@ -413,7 +414,7 @@ The analysis included:
 
 Statistical significance is interpreted as evidence of differences or associations, not proof of causation.
 
-## 9. Power BI Dashboard Development
+## 📊9. Power BI Dashboard Development
 
 The final stage involved developing an interactive four-page Power BI dashboard.
 
@@ -651,7 +652,7 @@ The RFM analysis also highlighted a substantial high-value customer group and a 
 
 *Note: These findings are based on the corresponding SQL analytical outputs. Dashboard figures and measures should be reconciled against the final exported datasets before being treated as a single source of truth.*
 
-## 11. Business Recommendations
+## 💡11. Business Recommendations
 
 Based on the findings, the following recommendations could help improve business performance.
 
@@ -746,7 +747,7 @@ Based on the findings, the following recommendations could help improve business
 
 **Expected Benefit:** More relevant customer communication and improved marketing effectiveness.
 
-## 12. Project Outcomes
+## ✅12. Project Outcomes
 
 The project demonstrates an end-to-end analytical workflow:
 
