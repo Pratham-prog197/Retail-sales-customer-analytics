@@ -1,0 +1,21 @@
+Segment,Category,customers,units,revenue
+"1 Champions","Home & Kitchen",249,1443,92495.05
+"1 Champions",Electronics,231,1283,77053.81
+"1 Champions",Clothing,230,1154,70430.85
+"1 Champions","Beauty & Health",233,1157,57309.35
+"2 At-Risk High Value","Home & Kitchen",191,936,60248.44
+"2 At-Risk High Value",Electronics,196,906,53263.42
+"2 At-Risk High Value",Clothing,178,867,51109.86
+"2 At-Risk High Value","Beauty & Health",199,886,44951
+"3 Loyal","Home & Kitchen",58,216,11576.12
+"3 Loyal",Electronics,57,201,10113.78
+"3 Loyal","Beauty & Health",64,258,9791.12
+"3 Loyal",Clothing,56,173,7588.95
+"4 Recent / Promising","Home & Kitchen",94,342,22765.59
+"4 Recent / Promising",Electronics,78,267,15788.35
+"4 Recent / Promising",Clothing,66,240,13835.94
+"4 Recent / Promising","Beauty & Health",90,297,13518.3
+"5 Hibernating","Home & Kitchen",164,540,30670.74
+"5 Hibernating",Electronics,132,380,21329.12
+"5 Hibernating",Clothing,135,376,19908.61
+"5 Hibernating","Beauty & Health",138,403,18255.22

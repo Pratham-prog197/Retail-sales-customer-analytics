@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Price,StockLevel,Units,Revenue,DaysOfCover
+93,Product_93,Clothing,29.67,0,79,2343.93,0
+35,Product_35,Beauty & Health,11.56,9,57,658.92,17
+85,Product_85,Electronics,99.81,11,62,6188.22,19
+69,Product_69,Home & Kitchen,77.71,13,60,4662.6,24
+119,Product_119,Electronics,90.33,17,67,6052.11,28
+83,Product_83,Home & Kitchen,90.16,16,62,5589.92,28

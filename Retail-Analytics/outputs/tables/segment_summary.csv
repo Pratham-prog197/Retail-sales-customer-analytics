@@ -1,0 +1,6 @@
+Segment,customers,pct_customers,revenue,pct_revenue,avg_customer_spend,avg_frequency,avg_recency_days
+"1 Champions",275,27.81,297289.06,42.35,1081.05,7.25,806.92
+"2 At-Risk High Value",232,23.46,209572.72,29.85,903.33,6.08,3374.56
+"5 Hibernating",262,26.49,90163.69,12.84,344.14,2.79,4476.72
+"4 Recent / Promising",147,14.86,65908.18,9.39,448.35,3.16,959.89
+"3 Loyal",73,7.38,39069.97,5.57,535.21,5.51,872.03

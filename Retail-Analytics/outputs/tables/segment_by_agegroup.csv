@@ -1,0 +1,32 @@
+AgeGroup,Segment,customers,revenue
+55-64,"1 Champions",56,61295.42
+45-54,"1 Champions",54,60638.22
+35-44,"1 Champions",50,51353.46
+25-34,"2 At-Risk High Value",47,44703.31
+25-34,"1 Champions",43,43710.13
+55-64,"2 At-Risk High Value",50,43237.1
+45-54,"2 At-Risk High Value",47,42926.74
+18-24,"1 Champions",35,40181.13
+65+,"1 Champions",37,40110.7
+35-44,"2 At-Risk High Value",42,38855.49
+18-24,"2 At-Risk High Value",23,21173.35
+25-34,"5 Hibernating",57,19789.72
+65+,"2 At-Risk High Value",23,18676.73
+35-44,"5 Hibernating",53,18370.97
+35-44,"4 Recent / Promising",31,16426.85
+55-64,"5 Hibernating",47,15799.27
+18-24,"5 Hibernating",40,14263.36
+55-64,"3 Loyal",25,14243.25
+45-54,"4 Recent / Promising",32,13780.27
+45-54,"5 Hibernating",35,11872.38
+25-34,"4 Recent / Promising",30,11811.57
+55-64,"4 Recent / Promising",23,10696.3
+65+,"5 Hibernating",29,9854.42
+18-24,"4 Recent / Promising",21,8946.51
+45-54,"3 Loyal",14,7618.59
+25-34,"3 Loyal",12,6267.82
+18-24,"3 Loyal",9,4541.79
+65+,"4 Recent / Promising",10,4246.68
+35-44,"3 Loyal",8,4113.77
+65+,"3 Loyal",5,2284.75
+NULL,"5 Hibernating",1,213.57

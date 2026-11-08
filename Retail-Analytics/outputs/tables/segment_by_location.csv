@@ -1,0 +1,26 @@
+Location,Segment,customers,revenue
+West,"1 Champions",77,83425.51
+North,"1 Champions",72,77692.88
+South,"1 Champions",65,69533.08
+East,"1 Champions",59,63792.31
+West,"2 At-Risk High Value",64,60370.49
+East,"2 At-Risk High Value",58,51204.51
+South,"2 At-Risk High Value",55,50597.27
+North,"2 At-Risk High Value",51,43496.36
+South,"5 Hibernating",79,26523.33
+North,"5 Hibernating",67,24130.09
+West,"4 Recent / Promising",53,23736.45
+West,"5 Hibernating",57,20080.06
+East,"5 Hibernating",56,18469.71
+North,"4 Recent / Promising",39,17052.4
+East,"4 Recent / Promising",30,14657.31
+East,"3 Loyal",20,10803.93
+West,"3 Loyal",18,9583.46
+South,"3 Loyal",18,9326.08
+South,"4 Recent / Promising",22,9241.99
+North,"3 Loyal",16,8884.88
+Unknown,"2 At-Risk High Value",4,3904.09
+Unknown,"1 Champions",2,2845.28
+Unknown,"4 Recent / Promising",3,1220.03
+Unknown,"5 Hibernating",3,960.5
+Unknown,"3 Loyal",1,471.62

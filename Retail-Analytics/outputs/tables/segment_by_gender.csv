@@ -1,0 +1,16 @@
+Gender,Segment,customers,revenue
+Other,"1 Champions",101,110332.09
+Male,"1 Champions",88,96541.7
+Female,"1 Champions",86,90415.27
+Other,"2 At-Risk High Value",92,79820.77
+Female,"2 At-Risk High Value",73,70224.93
+Male,"2 At-Risk High Value",67,59527.02
+Other,"5 Hibernating",89,31198.42
+Male,"5 Hibernating",84,30040.95
+Female,"5 Hibernating",89,28924.32
+Other,"4 Recent / Promising",49,23718.46
+Male,"4 Recent / Promising",57,22712.21
+Female,"4 Recent / Promising",41,19477.51
+Male,"3 Loyal",29,15563.17
+Female,"3 Loyal",23,12031.91
+Other,"3 Loyal",21,11474.89

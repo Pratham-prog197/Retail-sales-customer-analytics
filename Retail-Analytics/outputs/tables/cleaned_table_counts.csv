@@ -1,0 +1,4 @@
+table_name,row_count
+clean_sales,5000
+clean_customers,1000
+clean_products,200
