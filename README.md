@@ -368,8 +368,7 @@ Using SciPy, the project investigated several business questions.
 | Spearman Correlation | Is customer purchase frequency associated with revenue? |
 | Mann–Whitney U Test | Do repeat customers have a different revenue distribution from one-time customers? |
 | Kruskal–Wallis Test | Does customer revenue differ across purchase-frequency groups? |
-| Chi-square Tests | Are product purchase counts or customer segments associated with categorical variables? |
-| Cramér's V | How strong are associations between customer segments and demographics? |
+
 
 ## 📊 Statistical Hypothesis Testing & Key Findings
 
