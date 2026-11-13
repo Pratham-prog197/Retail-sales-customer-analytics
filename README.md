@@ -371,34 +371,52 @@ Using SciPy, the project investigated several business questions.
 | Chi-square Tests | Are product purchase counts or customer segments associated with categorical variables? |
 | Cramér's V | How strong are associations between customer segments and demographics? |
 
-### Statistical Findings
+## 📊 Statistical Hypothesis Testing & Key Findings
 
-#### 1. Spearman Correlation
+Three non-parametric statistical tests were conducted to examine the relationship between customer purchasing frequency and revenue, compare spending behaviour between one-time and repeat customers, and identify revenue differences across purchase-frequency segments.
 
-The notebook reports a correlation coefficient of 0.8387 between purchase frequency and customer revenue, with a p-value below 0.001.
+### 1. Statistical Test Results
 
-This indicates a strong positive association.
+| Statistical Test | Test Result | Key Finding |
+|---|---|---|
+| **Spearman Correlation** | ρ = 0.8387, p < 0.001 | Very strong positive association between purchase frequency and customer revenue. |
+| **Mann–Whitney U Test** | U = 1,213, p < 0.001 | Statistically significant difference in revenue distributions between one-time and repeat customers. |
+| **Kruskal–Wallis Test** | H = 439.5393, p < 0.001 | Statistically significant differences in revenue distributions across purchase-frequency groups. |
 
-#### 2. Mann–Whitney U Test
+### 2. Customer Revenue Comparison
 
-The notebook reports a statistically significant difference in revenue distributions between repeat and one-time customers.
+The analysis revealed clear differences in median revenue across customer purchasing-frequency segments.
 
-Reported median revenue:
+| Customer Segment | Median Revenue |
+|---|---:|
+| One-time Customers | 104.54 |
+| Occasional Customers | 342.72 |
+| Frequent Customers | 811.88 |
 
-- One-time customers: 104.54
-- Repeat customers: 672.96
+The Mann–Whitney U test further confirmed a significant revenue difference between one-time customers (median: 104.54) and repeat customers (median: 672.96).
 
-#### 3. Kruskal–Wallis Test
+### 3. Key Statistical Insights
 
-The notebook reports differences in revenue distributions across purchase-frequency groups.
+- **Strong Positive Association:** Spearman correlation (ρ = 0.8387) indicates that customers with higher purchasing frequency tend to generate greater revenue.
+- **Repeat Customer Value:** Repeat customers demonstrate substantially higher median revenue than one-time customers, highlighting their importance to overall business performance.
+- **Frequency-Based Spending Patterns:** The Kruskal–Wallis test confirms statistically significant revenue differences across one-time, occasional and frequent customer groups.
+- **High-Value Customer Identification:** Frequent customers generate the highest median revenue (811.88), making them an important segment for customer retention strategies.
 
-Reported median revenue:
+### 4. Business Implications & Recommendations
 
-- One-time: 104.54
-- Occasional: 342.72
-- Frequent: 811.88
+- **Improve Customer Retention:** Introduce loyalty programs and incentives to encourage one-time customers to make repeat purchases.
+- **Increase Purchase Frequency:** Implement personalized offers, targeted promotions and engagement campaigns to move occasional customers into frequent-purchasing segments.
+- **Prioritize High-Value Customers:** Develop exclusive rewards and retention strategies for frequent customers to maximize customer lifetime value.
+- **Data-Driven Segmentation:** Use purchasing-frequency patterns and revenue behaviour to identify valuable customer segments and optimize marketing strategies.
 
-These results suggest that purchase-frequency groups exhibit different spending behaviour.
+### Conclusion
+
+All three statistical tests returned p-values below 0.001, providing strong statistical evidence of an association between purchasing frequency and customer revenue, as well as significant differences in revenue distributions across customer segments. The findings highlight the importance of repeat purchases, customer retention and frequency-based segmentation in driving revenue growth.
+
+*Note: The Kruskal–Wallis test identifies whether at least one purchase-frequency group differs significantly. Post-hoc pairwise testing is required to determine exactly which groups differ.*
+
+**Conclusion:** All three statistical tests returned p-values below 0.001, providing strong statistical evidence of a relationship between purchasing frequency and customer revenue.
+
 
 ### D. Customer Segmentation with K-Means
 
@@ -655,6 +673,19 @@ The RFM analysis also highlighted a substantial high-value customer group and a 
 ## 💡11. Business Recommendations
 
 Based on the findings, the following recommendations could help improve business performance.
+
+## 9. 💡 Business Recommendations
+
+Based on the analysis, the following strategic actions are recommended to improve customer retention, product performance, inventory management and overall business revenue.
+
+| Area | Recommendation |
+|---|---|
+| **Customer Retention** | Prioritize engagement with high-value customers and evaluate targeted reactivation campaigns for at-risk customers. |
+| **Customer Loyalty** | Explore loyalty benefits and personalized recommendations to encourage repeat purchases. |
+| **Inventory Management** | Prioritize replenishment of the six flagged products and review the 16 overstocked products. |
+| **Product Strategy** | Monitor Class A products closely and investigate the performance of low-revenue products. |
+| **Category Strategy** | Review demand and stock allocation in Home & Kitchen and Electronics, the two largest revenue contributors. |
+| **Revenue Monitoring** | Investigate the July revenue decline and monitor category-level performance and transaction volumes. |
 
 ### 1. Strengthen Pricing Validation
 
